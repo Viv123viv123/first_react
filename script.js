@@ -10,4 +10,5 @@ function updateBalance(){
     console.log("Balance updated");
 }
 updateBalance(); // IGNORE
+console.log("Balance");
 
